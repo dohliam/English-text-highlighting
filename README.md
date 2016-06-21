@@ -2,19 +2,21 @@
 
 Multilingual syntax highlighting for prose in the following languages:
 
-* [Chinese](https://dohliam.github.io/multilingual-text-highlighting/index-zh.html)
 * [English](https://dohliam.github.io/multilingual-text-highlighting/index-en.html)
 * [French](https://dohliam.github.io/multilingual-text-highlighting/index-fr.html)
+* [Mandarin](https://dohliam.github.io/multilingual-text-highlighting/index-zh.html)
 * [Norwegian](https://dohliam.github.io/multilingual-text-highlighting/index-no.html)
+* [Swahili](https://dohliam.github.io/multilingual-text-highlighting/index-sw.html)
 
 Based on [Evan Hahn's](https://github.com/EvanHahn) [English-text-highlighting](https://github.com/EvanHahn/English-text-highlighting).
 
 ## Source texts
 
-* Chinese: [阿南西和智慧](https://global-asp.github.io/stories/zh/0006_%E9%98%BF%E5%8D%97%E8%A5%BF%E5%92%8C%E6%99%BA%E6%85%A7_slides.html) translated by dohliam
 * English: _The Adventures of Sherlock Holmes_ by Sir Arthur Conan Doyle
-* French: [_Les bananes de grand-mère_](http://my.africanstorybook.org/stories/les-bananes-de-grand-m%C3%A8re) translated by Isabelle Duston & Véronique Biddau
-* Norwegian: [_Zama er flink_](https://global-asp.github.io/stories/no/0095_zama-er-flink_slides.html) translated by Espen Stranger-Johannessen
+* French: [_Les bananes de grand-mère_](https://github.com/global-asp/asp-source/blob/master/fr/0294_les-bananes-de-grand-mere.md) translated by Isabelle Duston & Véronique Biddau
+* Mandarin: [阿南西和智慧](https://github.com/global-asp/global-asp/blob/master/zh/0006_%E9%98%BF%E5%8D%97%E8%A5%BF%E5%92%8C%E6%99%BA%E6%85%A7.md) translated by dohliam
+* Norwegian: [_Zama er flink_](https://github.com/global-asp/global-asp/blob/master/no/0095_zama-er-flink.md) translated by Espen Stranger-Johannessen
+* Swahili: [_Watoto wa Nta_](https://github.com/global-asp/asp-source/blob/master/sw/0337_watoto-wa-nta.md) translated by Mutugi Kamundi
 
 ## Stopword lists
 
