@@ -1,9 +1,9 @@
 just visit this one of these fine pages to see what i'm talking about:
 
 * [English](https://evanhahn.github.io/English-text-highlighting/)
-* [French](https://dohliam.github.io/mth/index-fr.html)
-* [Norwegian](https://dohliam.github.io/mth/index-no.html)
-* [Chinese](https://dohliam.github.io/mth/index-zh.html)
+* [French](https://dohliam.github.io/multilingual-text-highlighting/index-fr.html)
+* [Norwegian](https://dohliam.github.io/multilingual-text-highlighting/index-no.html)
+* [Chinese](https://dohliam.github.io/multilingual-text-highlighting/index-zh.html)
 
 Source texts:
 
